@@ -35,6 +35,8 @@ This project was specifically created to use with <a href="https://makerworld.co
   - Try pressing the refresh button.
   - If that doesn't work: turn off the controller → restart the program → turn on the controller → select it again.
   - If you're using the nogui version, you have to do this every time.
+-**MAKE SURE YOU INSTALL VIGEMBUS DRIVERS!!!**
+  -You can install them <a href="https://vigembus.com/download/">**here**</a>
 
 ---
 
