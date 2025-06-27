@@ -15,14 +15,14 @@ This project was specifically created to use with <a href="https://makerworld.co
 
 - Go to advanced control settings in FH5 and reset them all to default (or just default the inner and outer steering deadzones).
 - Download the exe from the releases page, OR run the code yourself via Python.
-- You first start the program, then you connect your controller to your PC. Next, select your controller within the program (dropdown menu) and press start (or press `Enter` in nogui mode).
+- You first start the program, then you connect your controller to your PC. Next, select your controller within the program (dropdown menu) and press start (or press 'enter' in nogui mode).
 - The program is now emulating your controller; you must keep the program running for it to work (obviously).
 - Press Stop button to end emulation or CTRL+C in nogui version.
 
 ## Command Line Arguments:
 
 - There are two optional command-line arguments you can use:
-  - `nogui` or alternatively, `ng`: runs the program without a GUI (still a bit buggy).
+  - `nogui` or alternatively, `ng:` runs the program without a GUI (still a bit buggy).
   - `r:<ms>`: changes how often (in ms) the emulator checks your controller inputs.  
     Smaller values = theoretically less input lag, but it may end up lagging the program if your values are too low (faster refreshes).
 
